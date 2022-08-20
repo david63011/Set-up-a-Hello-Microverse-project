@@ -1,6 +1,7 @@
 Hello-Microverse
 
 My first project with Microverse
+
 I made it to understand how to
 Create branches with different base branches.
 Understand the concept of version control.
@@ -17,3 +18,11 @@ Author David Underwood
 
 twitter @david630
 GitHub @david63011
+
+Show your support
+Give a ⭐️ if you like this project!
+
+Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
